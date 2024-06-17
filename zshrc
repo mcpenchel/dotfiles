@@ -70,3 +70,7 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+eval "$(direnv hook zsh)"
+
+# Set up a shortcut for Sublime Text
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
