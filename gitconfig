@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matheus.penchel@gmail.com
+	name = Matheus Penchel
